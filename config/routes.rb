@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get 'bulletin_board_systems/index'
   get 'users/home'
   get 'users/about'
   get 'users/help'

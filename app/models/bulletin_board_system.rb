@@ -1,0 +1,2 @@
+class BulletinBoardSystem < ApplicationRecord
+end
